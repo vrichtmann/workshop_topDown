@@ -11,5 +11,12 @@ The thing that is so popular in the gaming community is the top-down gaming styl
 [Victor Richtmann](https://twitter.com/VRichtmann), Lead Programmer
 
 ## Instructions
+The game is played from a top view where movement is free sideways.
+
+![topDown](https://user-images.githubusercontent.com/6660530/69828373-6d366900-11fa-11ea-86a9-110eb268a10a.PNG)
+
+The game has 4 buttons each one ins respective a one specific camera.<br>
+
+![topDown2](https://user-images.githubusercontent.com/6660530/69828615-4462a380-11fb-11ea-878c-9851deab2770.PNG)
 
 ## Comments / Questions / Help
